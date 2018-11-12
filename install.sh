@@ -18,7 +18,6 @@ fi
 echo "Housekeeping homebrew..."
 brew update
 brew upgrade --all
-brew cleanup -s
 echo "✓ Homebrew housekeeping done"
 
 # TODO: handle $PATH setting
@@ -35,7 +34,7 @@ echo "✓ Homebrew tap install done"
 #########################
 # install brew formulae #
 #########################
-echo "Installing formulae..."
+echo "Installing brew formulae..."
 brew install cheat
 brew install curl
 brew install dark-mode
@@ -52,3 +51,38 @@ brew install tree
 brew install wget
 brew install yarn
 echo "✓ Homebrew install done"
+
+#####################
+# install cask apps #
+#####################
+echo "Installing brew cask..."
+brew cask install 1password
+brew cask install authy
+brew cask install clipy
+brew cask install docker
+brew cask install evernote
+brew cask install firefox
+brew cask install gas-mask
+brew cask install google-backup-and-sync
+brew cask install google-chrome
+brew cask install insomnia
+brew cask install istat-menus
+brew cask install iterm2
+brew cask install kap
+brew cask install postman
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install react-native-debugger
+brew cask install reactotron
+brew cask install sourcetree
+brew cask install station
+brew cask install the-unarchiver
+brew cask install tunnelblick
+brew cask install visual-studio-code
+brew cask install vlc
+brew cask install zeplin
+echo "✓ Homebrew cask install done"
+
+# Reset launchpad order
+# defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
+
+brew cleanup -s
