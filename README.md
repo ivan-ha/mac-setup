@@ -4,6 +4,7 @@ My setup script for a new Mac.
 
 ## How to use
 
-```
-Coming soon ...
+```sh
+chmod +x install.sh
+./install.sh
 ```
