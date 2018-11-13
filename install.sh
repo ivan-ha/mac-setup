@@ -58,6 +58,7 @@ echo "✓ Homebrew install done"
 echo "Installing brew cask..."
 brew cask install 1password
 brew cask install authy
+brew cask install bartender
 brew cask install charles
 brew cask install clipy
 brew cask install docker
