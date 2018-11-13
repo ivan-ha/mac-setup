@@ -58,6 +58,7 @@ echo "✓ Homebrew install done"
 echo "Installing brew cask..."
 brew cask install 1password
 brew cask install authy
+brew cask install charles
 brew cask install clipy
 brew cask install docker
 brew cask install evernote
@@ -75,6 +76,7 @@ brew cask install react-native-debugger
 brew cask install reactotron
 brew cask install sourcetree
 brew cask install station
+brew cask install telegram
 brew cask install the-unarchiver
 brew cask install tunnelblick
 brew cask install visual-studio-code
@@ -85,4 +87,8 @@ echo "✓ Homebrew cask install done"
 # Reset launchpad order
 # defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
 
+################
+# brew cleanup #
+################
 brew cleanup -s
+brew prune
