@@ -57,11 +57,13 @@ echo "✓ Homebrew install done"
 #####################
 echo "Installing brew cask..."
 brew cask install 1password
+brew cask install adapter
 brew cask install authy
 brew cask install bartender
 brew cask install charles
 brew cask install clipy
 brew cask install docker
+brew cask install duet
 brew cask install evernote
 brew cask install firefox
 brew cask install gas-mask
@@ -69,8 +71,10 @@ brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install insomnia
 brew cask install istat-menus
+brew cask install istumbler
 brew cask install iterm2
 brew cask install kap
+brew cask install mplayerx
 brew cask install postman
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 brew cask install react-native-debugger
