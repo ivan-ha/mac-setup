@@ -18,6 +18,9 @@ echo ""
 # Enable firewall
 sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
 
+# Enable FileVault
+sudo fdesetup enable
+
 # Install Xcode command line tools
 xcode-select --install
 
