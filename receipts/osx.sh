@@ -15,6 +15,9 @@ echo ""
 # general                       #
 #################################
 
+# enable dark theme for dock and menu bar
+osascript -e 'tell application "System Events" to tell appearance preferences to set dark mode to true'
+
 # Disable the sound effects on boot
 sudo nvram SystemAudioVolume=" "
 

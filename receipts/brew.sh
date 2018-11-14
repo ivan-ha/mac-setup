@@ -42,7 +42,6 @@ echo "✓ Homebrew tap install done"
 echo "Installing brew formulae..."
 brew install cheat
 brew install curl
-brew install dark-mode
 brew install git
 brew install git-extras
 brew install hub
