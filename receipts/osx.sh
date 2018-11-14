@@ -15,6 +15,9 @@ echo ""
 # general                       #
 #################################
 
+# Enable firewall
+sudo /usr/libexec/ApplicationFirewall/socketfilterfw --setglobalstate on
+
 # Install Xcode command line tools
 xcode-select --install
 
