@@ -80,6 +80,9 @@ defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
 defaults write com.apple.dock tilesize -int 22
 defaults write com.apple.dock largesize -int 115
 
+# Enable Dock icons magnification
+defaults write com.apple.dock magnification -bool true
+
 # Disable Dashboard
 defaults write com.apple.dashboard mcx-disabled -bool true
 
