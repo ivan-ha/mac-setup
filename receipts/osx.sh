@@ -15,6 +15,9 @@ echo ""
 # general                       #
 #################################
 
+# Install Xcode command line tools
+xcode-select --install
+
 # enable dark theme for dock and menu bar
 osascript -e 'tell application "System Events" to tell appearance preferences to set dark mode to true'
 
@@ -34,6 +37,9 @@ defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
 
 # Prevent Time Machine from prompting to use new hard drives as backup volume
 defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
+
+# Enable Tab in modal dialogs
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
 ################################
 # screen                       #
