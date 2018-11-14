@@ -70,8 +70,9 @@ defaults write com.apple.desktopservices DSDontWriteUSBStores -bool true
 # Dock, Dashboard            #
 ##############################
 
-# Set the icon size of Dock items to 24 pixels
-defaults write com.apple.dock tilesize -int 24
+# Set Dock icons sizes
+defaults write com.apple.dock tilesize -int 22
+defaults write com.apple.dock largesize -int 115
 
 # Disable Dashboard
 defaults write com.apple.dashboard mcx-disabled -bool true
