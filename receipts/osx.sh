@@ -41,6 +41,10 @@ defaults write com.apple.TimeMachine DoNotOfferNewDisksForBackup -bool true
 # Enable Tab in modal dialogs
 defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 
+# Set trackpad and mouse speed
+defaults write -g com.apple.trackpad.scaling 1.5
+defaults write -g com.apple.mouse.scaling 2.5
+
 ################################
 # screen                       #
 ################################
