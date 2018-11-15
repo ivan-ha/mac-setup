@@ -91,6 +91,7 @@ brew cask install the-unarchiver
 brew cask install tunnelblick
 brew cask install visual-studio-code
 brew cask install vlc
+brew cask install vmware-fusion
 brew cask install zeplin
 echo "✓ Homebrew cask install done"
 
