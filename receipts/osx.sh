@@ -99,6 +99,9 @@ defaults write com.apple.dashboard mcx-disabled -bool true
 # Don’t automatically rearrange Spaces based on most recent use
 defaults write com.apple.dock mru-spaces -bool false
 
+# Don't show recent apps in dock
+defaults write com.apple.dock show-recents -bool false
+
 ################################
 # Safari                       #
 ################################
