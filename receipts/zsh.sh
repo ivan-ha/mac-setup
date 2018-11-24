@@ -25,10 +25,12 @@ fi
 # install theme #
 #################
 
+Set using mackup
 # 1. download cobalt2 theme to ~/.oh-my-zsh/themes/
 curl https://raw.githubusercontent.com/wesbos/Cobalt2-iterm/master/cobalt2.zsh-theme -o ~/.oh-my-zsh/themes/cobalt2.zsh-theme
 # 2. replace theme `robbyrussell` to `cobalt2`
-sed -i '' -e 's/^\(ZSH_THEME=\).*$/\1"cobalt2"/' ~/.zshrc
+# used mackup to restore theme setting
+# sed -i '' -e 's/^\(ZSH_THEME=\).*$/\1"cobalt2"/' ~/.zshrc
 # 3. install powerline
 sudo easy_install pip
 pip install --user powerline-status
