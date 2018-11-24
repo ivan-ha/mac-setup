@@ -68,6 +68,7 @@ brew cask install charles
 brew cask install cheatsheet
 brew cask install clipy
 brew cask install docker
+brew cask install dropbox
 brew cask install duet
 brew cask install evernote
 brew cask install firefox
