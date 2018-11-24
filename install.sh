@@ -11,3 +11,6 @@ while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 ./receipts/mas.sh
 ./receipts/zsh.sh
 ./receipts/copy.sh
+
+# FIXME: https://github.com/lra/mackup/issues/1253
+export XDG_CONFIG_HOME=/Users/ivan/
