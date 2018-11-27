@@ -2,12 +2,73 @@
 
 My setup script for a new Mac.
 
-## How to use
+## Installation
 
+Clone the Repo
 ```sh
-chmod +x install.sh
+git clone https://github.com/ivan-ha/mac-setup.git
+```
+
+Run all
+```sh
 ./install.sh
 ```
+
+## CLI tools
+
+- [aws-cli](https://github.com/aws/aws-cli)
+- [cheat](https://github.com/chrisallenlane/cheat)
+- [Curl](https://github.com/curl/curl)
+- [Git Extras](https://github.com/tj/git-extras)
+- [hub](https://github.com/github/hub)
+- [Mackup](https://github.com/lra/mackup)
+- [mas-cli](https://github.com/mas-cli/mas)
+- [Oh My Zsh](https://ohmyz.sh/)
+- [rename](http://plasmasturm.org/code/rename/)
+- [speedtest-cli](https://github.com/sivel/speedtest-cli)
+
+## General tools
+
+- [1password](https://1password.com/)
+- [Adapter](https://macroplant.com/adapter)
+- [Authy](https://authy.com/)
+- [Bartender](https://www.macbartender.com/)
+- [Blackmagic Disk Speed Test](https://itunes.apple.com/app/blackmagic-disk-speed-test/id425264550)
+- [Charles](https://www.charlesproxy.com/)
+- [CheatSheet](https://mediaatelier.com/CheatSheet/)
+- [Clipy](https://clipy-app.com/)
+- [Docker](https://www.docker.com/)
+- [Dropbox](https://dropbox.com)
+- [Duet](https://www.duetdisplay.com/)
+- [Evernote](https://evernote.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- [Gas Mask](https://github.com/2ndalpha/gasmask)
+- [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/)
+- [Google Chrome](https://www.google.com/chrome/)
+- [Insomnia](https://insomnia.rest/)
+- [iStat Menus](https://bjango.com/mac/istatmenus/)
+- [iStumbler](https://istumbler.net/)
+- [iTerm2](https://www.iterm2.com/)
+- [Kap](https://getkap.co/)
+- [Magnet](http://magnet.crowdcafe.com/)
+- [MPlayerX](http://mplayerx.org/)
+- [ngrok](https://ngrok.com/)
+- [Paintbrush](https://paintbrush.sourceforge.io/)
+- [Postman](https://www.getpostman.com/)
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
+- [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [Reeder](http://reederapp.com/mac/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Station](https://getstation.com/)
+- [Telegram](https://telegram.org/)
+- [The Unarchiver](https://theunarchiver.com/)
+- [Tunnelblick](https://tunnelblick.net/)
+- [VLC](https://www.videolan.org/vlc/)
+- [VMware Fusion](https://www.vmware.com/products/fusion.html)
+- [VS Code](https://code.visualstudio.com/)
+- [Xcode](https://itunes.apple.com/app/xcode/id497799835)
+- [Zeplin](https://zeplin.io/)
 
 ## Inspired by
 
