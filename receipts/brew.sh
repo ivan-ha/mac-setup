@@ -64,11 +64,11 @@ echo "Installing brew cask..."
 brew cask install 1password
 brew cask install adapter
 brew cask install authy
-brew cask install bartender
 brew cask install charles
 brew cask install cheatsheet
 brew cask install clipy
 brew cask install docker
+brew cask install dozer
 brew cask install dropbox
 brew cask install duet
 brew cask install evernote
