@@ -31,6 +31,7 @@ Run all
 
 - [1password](https://1password.com/)
 - [Adapter](https://macroplant.com/adapter)
+- [Alfred](https://www.alfredapp.com/)
 - [Authy](https://authy.com/)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/app/blackmagic-disk-speed-test/id425264550)
 - [Charles](https://www.charlesproxy.com/)

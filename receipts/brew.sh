@@ -63,6 +63,7 @@ echo "✓ Homebrew install done"
 echo "Installing brew cask..."
 brew cask install 1password
 brew cask install adapter
+brew cask install alfred
 brew cask install authy
 brew cask install charles
 brew cask install cheatsheet
