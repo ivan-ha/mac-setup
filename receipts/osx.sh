@@ -91,11 +91,21 @@ defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}"
 ##############################
 
 # Set Dock icons sizes
-defaults write com.apple.dock tilesize -int 22
+# defaults write com.apple.dock tilesize -int 22
+defaults write com.apple.dock tilesize -int 40
 defaults write com.apple.dock largesize -int 115
 
 # Enable Dock icons magnification
-defaults write com.apple.dock magnification -bool true
+# defaults write com.apple.dock magnification -bool true
+defaults write com.apple.dock magnification -bool false
+
+# Set Dock to left
+defaults write com.apple.dock orientation left
+
+# Set Dock autohide and animation
+defaults write com.apple.dock autohide -bool true
+defaults write com.apple.dock autohide-delay -float 0
+defaults write com.apple.dock autohide-time-modifier -float 0.5
 
 # Disable Dashboard
 defaults write com.apple.dashboard mcx-disabled -bool true
