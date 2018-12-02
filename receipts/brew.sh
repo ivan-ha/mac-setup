@@ -52,6 +52,7 @@ brew install node
 brew install python
 brew install rename
 brew install speedtest_cli
+brew install tldr
 brew install tree
 brew install wget
 brew install yarn
