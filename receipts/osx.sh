@@ -65,6 +65,9 @@ defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
 # Disable shadow in screenshots
 defaults write com.apple.screencapture disable-shadow -bool true
 
+# Fix blurry font in Chrome based App in macOS Mojave
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
+
 ################################
 # Finder                       #
 ################################
