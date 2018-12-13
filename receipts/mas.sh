@@ -14,6 +14,7 @@ echo ""
 ###############
 # install app #
 ###############
+mas install 1176895641 # Spark
 mas install 425264550 # Blackmagic Disk Speed Test
 mas install 441258766 # Magnet
 mas install 497799835 # Xcode
