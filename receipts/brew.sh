@@ -93,6 +93,7 @@ brew cask install react-native-debugger
 brew cask install reactotron
 brew cask install sourcetree
 brew cask install station
+brew cask install stretchly
 brew cask install telegram
 brew cask install the-unarchiver
 brew cask install tunnelblick

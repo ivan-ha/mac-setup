@@ -65,6 +65,7 @@ Run all
 - [Reeder](http://reederapp.com/mac/)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Station](https://getstation.com/)
+- [stretchly](https://github.com/hovancik/stretchly)
 - [Telegram](https://telegram.org/)
 - [The Unarchiver](https://theunarchiver.com/)
 - [Tunnelblick](https://tunnelblick.net/)
