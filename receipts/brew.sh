@@ -45,6 +45,7 @@ brew install cheat
 brew install curl
 brew install git
 brew install git-extras
+brew install git-open
 brew install hub
 brew install mackup
 brew install mas

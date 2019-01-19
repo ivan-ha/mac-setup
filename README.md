@@ -5,11 +5,13 @@ My setup script for a new Mac.
 ## Installation
 
 Clone the Repo
+
 ```sh
 git clone https://github.com/ivan-ha/mac-setup.git
 ```
 
 Run all
+
 ```sh
 ./install.sh
 ```
@@ -20,6 +22,7 @@ Run all
 - [cheat](https://github.com/chrisallenlane/cheat)
 - [Curl](https://github.com/curl/curl)
 - [Git Extras](https://github.com/tj/git-extras)
+- [git-open](https://github.com/paulirish/git-open)
 - [hub](https://github.com/github/hub)
 - [Mackup](https://github.com/lra/mackup)
 - [mas-cli](https://github.com/mas-cli/mas)
