@@ -111,5 +111,4 @@ echo "✓ Homebrew cask install done"
 ################
 echo "Cleaning up brew..."
 brew cleanup -s
-brew prune
 echo "✓ Homebrew cleanup done"
