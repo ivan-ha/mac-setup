@@ -57,6 +57,7 @@ brew install tldr
 brew install tree
 brew install wget
 brew install yarn
+brew install zsh-autosuggestions
 echo "✓ Homebrew install done"
 
 #####################
