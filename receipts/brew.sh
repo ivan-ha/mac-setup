@@ -34,6 +34,7 @@ echo "✓ Homebrew housekeeping done"
 ###############
 echo "Installing tap..."
 brew tap beeftornado/rmtree
+brew tap homebrew/cask-fonts
 echo "✓ Homebrew tap install done"
 
 #########################
@@ -77,6 +78,7 @@ brew cask install dropbox
 brew cask install duet
 brew cask install evernote
 brew cask install firefox
+brew cask install font-fira-code
 brew cask install gas-mask
 brew cask install google-backup-and-sync
 brew cask install google-chrome
