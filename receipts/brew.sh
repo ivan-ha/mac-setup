@@ -94,6 +94,7 @@ brew cask install postman
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 brew cask install react-native-debugger
 brew cask install reactotron
+brew cask install robo-3t
 brew cask install sourcetree
 brew cask install station
 brew cask install stretchly
