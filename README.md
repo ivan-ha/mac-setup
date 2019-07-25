@@ -19,7 +19,6 @@ Run all
 ## CLI tools
 
 - [aws-cli](https://github.com/aws/aws-cli)
-- [cheat](https://github.com/chrisallenlane/cheat)
 - [Curl](https://github.com/curl/curl)
 - [Git Extras](https://github.com/tj/git-extras)
 - [git-open](https://github.com/paulirish/git-open)
@@ -29,6 +28,7 @@ Run all
 - [Oh My Zsh](https://ohmyz.sh/)
 - [rename](http://plasmasturm.org/code/rename/)
 - [speedtest-cli](https://github.com/sivel/speedtest-cli)
+- [tldr](https://github.com/tldr-pages/tldr)
 
 ## General tools
 
