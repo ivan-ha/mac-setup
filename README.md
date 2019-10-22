@@ -57,6 +57,7 @@ Run all
 - [Magnet](http://magnet.crowdcafe.com/)
 - [MPlayerX](http://mplayerx.org/)
 - [ngrok](https://ngrok.com/)
+- [NoSQLBooster](https://nosqlbooster.com/)
 - [Paintbrush](https://paintbrush.sourceforge.io/)
 - [Postman](https://www.getpostman.com/)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)

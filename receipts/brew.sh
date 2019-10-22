@@ -88,6 +88,7 @@ brew cask install iterm2
 brew cask install kap
 brew cask install mplayerx
 brew cask install ngrok
+brew cask install nosqlbooster-for-mongodb
 brew cask install paintbrush
 brew cask install postman
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
