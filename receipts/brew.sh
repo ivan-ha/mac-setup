@@ -41,6 +41,7 @@ echo "✓ Homebrew tap install done"
 # install brew formulae #
 #########################
 echo "Installing brew formulae..."
+brew install autojump
 brew install awscli
 brew install curl
 brew install git
