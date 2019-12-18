@@ -18,9 +18,10 @@ Run all
 
 ## CLI tools
 
-- [aws-cli](https://github.com/aws/aws-cli)
 - [autojump](https://github.com/wting/autojump)
+- [aws-cli](https://github.com/aws/aws-cli)
 - [Curl](https://github.com/curl/curl)
+- [fnm](https://github.com/Schniz/fnm)
 - [Git Extras](https://github.com/tj/git-extras)
 - [git-open](https://github.com/paulirish/git-open)
 - [hub](https://github.com/github/hub)
