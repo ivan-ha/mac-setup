@@ -50,7 +50,6 @@ brew install git-open
 brew install hub
 brew install mackup
 brew install mas
-brew install node
 brew install python
 brew install rename
 brew install Schniz/tap/fnm
