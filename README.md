@@ -39,6 +39,7 @@ Run all
 - [Alfred](https://www.alfredapp.com/)
 - [Authy](https://authy.com/)
 - [Blackmagic Disk Speed Test](https://itunes.apple.com/app/blackmagic-disk-speed-test/id425264550)
+- [Calibre](https://calibre-ebook.com/)
 - [Charles](https://www.charlesproxy.com/)
 - [CheatSheet](https://mediaatelier.com/CheatSheet/)
 - [Clipy](https://clipy-app.com/)
