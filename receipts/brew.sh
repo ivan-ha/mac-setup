@@ -83,12 +83,12 @@ brew cask install font-fira-code
 brew cask install gas-mask
 brew cask install google-backup-and-sync
 brew cask install google-chrome
+brew cask install iina
 brew cask install insomnia
 brew cask install istat-menus
 brew cask install istumbler
 brew cask install iterm2
 brew cask install kap
-brew cask install mplayerx
 brew cask install ngrok
 brew cask install nosqlbooster-for-mongodb
 brew cask install paintbrush
