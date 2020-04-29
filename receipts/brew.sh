@@ -44,6 +44,7 @@ echo "Installing brew formulae..."
 brew install autojump
 brew install awscli
 brew install curl
+brew install eddieantonio/eddieantonio/imgcat
 brew install git
 brew install git-extras
 brew install git-open
