@@ -68,6 +68,7 @@ Run all
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [Reeder](http://reederapp.com/mac/)
 - [Robo 3T](https://robomongo.org/)
+- [soundflower](https://github.com/mattingalls/Soundflower)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Station](https://getstation.com/)
 - [stretchly](https://github.com/hovancik/stretchly)
