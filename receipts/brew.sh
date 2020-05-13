@@ -48,6 +48,7 @@ brew install eddieantonio/eddieantonio/imgcat
 brew install git
 brew install git-extras
 brew install git-open
+brew install github/gh/gh
 brew install hub
 brew install mackup
 brew install mas
