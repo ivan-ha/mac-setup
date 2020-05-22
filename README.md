@@ -69,6 +69,7 @@ Run all
 - [Reactotron](https://github.com/infinitered/reactotron)
 - [Reeder](http://reederapp.com/mac/)
 - [Robo 3T](https://robomongo.org/)
+- [Sequel Pro](https://www.sequelpro.com/)
 - [soundflower](https://github.com/mattingalls/Soundflower)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [Station](https://getstation.com/)
