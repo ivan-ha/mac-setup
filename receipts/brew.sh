@@ -91,6 +91,7 @@ brew cask install istat-menus
 brew cask install istumbler
 brew cask install iterm2
 brew cask install kap
+brew cask install mysqlworkbench
 brew cask install ngrok
 brew cask install nosqlbooster-for-mongodb
 brew cask install paintbrush
@@ -99,7 +100,6 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 brew cask install react-native-debugger
 brew cask install reactotron
 brew cask install robo-3t
-brew cask install sequel-pro
 brew cask install soundflower
 brew cask install sourcetree
 brew cask install station
