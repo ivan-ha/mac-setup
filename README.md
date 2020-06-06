@@ -25,7 +25,6 @@ Run all
 - [Git Extras](https://github.com/tj/git-extras)
 - [git-open](https://github.com/paulirish/git-open)
 - [GitHub CLI](https://github.com/cli/cli)
-- [hub](https://github.com/github/hub)
 - [Mackup](https://github.com/lra/mackup)
 - [mas-cli](https://github.com/mas-cli/mas)
 - [Oh My Zsh](https://ohmyz.sh/)
