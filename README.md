@@ -80,6 +80,7 @@ Run all
 - [VLC](https://www.videolan.org/vlc/)
 - [VMware Fusion](https://www.vmware.com/products/fusion.html)
 - [VS Code](https://code.visualstudio.com/)
+- [Webstorm](https://www.jetbrains.com/webstorm/)
 - [Xcode](https://itunes.apple.com/app/xcode/id497799835)
 - [Zeplin](https://zeplin.io/)
 
