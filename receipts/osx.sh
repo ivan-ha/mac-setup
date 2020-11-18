@@ -94,8 +94,7 @@ defaults write com.apple.finder NewWindowTargetPath -string "file://${HOME}"
 ##############################
 
 # Set Dock icons sizes
-# defaults write com.apple.dock tilesize -int 22
-defaults write com.apple.dock tilesize -int 40
+defaults write com.apple.dock tilesize -int 36
 defaults write com.apple.dock largesize -int 115
 
 # Enable Dock icons magnification
