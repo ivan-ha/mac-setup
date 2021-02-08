@@ -87,6 +87,7 @@ brew cask install google-backup-and-sync
 brew cask install google-chrome
 brew cask install iina
 brew cask install insomnia
+brew cask install intellij-idea
 brew cask install istat-menus
 brew cask install istumbler
 brew cask install iterm2
@@ -110,7 +111,6 @@ brew cask install tunnelblick
 brew cask install visual-studio-code
 brew cask install vlc
 brew cask install vmware-fusion
-brew cask install webstorm
 brew cask install zeplin
 echo "✓ Homebrew cask install done"
 
