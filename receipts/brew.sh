@@ -95,6 +95,7 @@ brew install --cask kap
 brew install --cask mysqlworkbench
 brew install --cask ngrok
 brew install --cask nosqlbooster-for-mongodb
+brew install --cask notion
 brew install --cask paintbrush
 brew install --cask postman
 brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo

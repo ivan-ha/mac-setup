@@ -64,6 +64,7 @@ Run all
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [ngrok](https://ngrok.com/)
 - [NoSQLBooster](https://nosqlbooster.com/)
+- [Notion](https://www.notion.so/)
 - [Paintbrush](https://paintbrush.sourceforge.io/)
 - [Postman](https://www.getpostman.com/)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
