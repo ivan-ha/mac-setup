@@ -76,7 +76,8 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
 
 # Display full POSIX path as Finder window title
-defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+# disable this since big sur UI don't have enough space to show full path
+# defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
 
 # Use current directory as default search scope in Finder
 defaults write com.apple.finder FXDefaultSearchScope -string "SCcf"
