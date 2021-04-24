@@ -80,6 +80,7 @@ brew install --cask dozer
 brew install --cask dropbox
 brew install --cask duet
 brew install --cask evernote
+brew install --cask ferdi
 brew install --cask firefox
 brew install --cask font-fira-code
 brew install --cask gas-mask
@@ -104,7 +105,6 @@ brew install --cask reactotron
 brew install --cask robo-3t
 brew install --cask soundflower
 brew install --cask sourcetree
-brew install --cask station
 brew install --cask stretchly
 brew install --cask telegram
 brew install --cask the-unarchiver
