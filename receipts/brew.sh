@@ -92,6 +92,7 @@ brew install --cask istat-menus
 brew install --cask istumbler
 brew install --cask iterm2
 brew install --cask kap
+brew install --cask monitorcontrol
 brew install --cask mysqlworkbench
 brew install --cask ngrok
 brew install --cask nosqlbooster-for-mongodb
