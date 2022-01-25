@@ -48,7 +48,6 @@ Run all
 - [Dozer](https://github.com/Mortennn/Dozer)
 - [Dropbox](https://dropbox.com)
 - [Duet](https://www.duetdisplay.com/)
-- [Evernote](https://evernote.com/)
 - [Ferdi](https://getferdi.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [Gas Mask](https://github.com/2ndalpha/gasmask)

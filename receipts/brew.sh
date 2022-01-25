@@ -79,7 +79,6 @@ brew install --cask docker
 brew install --cask dozer
 brew install --cask dropbox
 brew install --cask duet
-brew install --cask evernote
 brew install --cask ferdi
 brew install --cask firefox
 brew install --cask font-fira-code
