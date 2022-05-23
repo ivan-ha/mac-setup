@@ -81,6 +81,7 @@ brew install --cask dropbox
 brew install --cask duet
 brew install --cask ferdi
 brew install --cask firefox
+brew install --cask flipper
 brew install --cask font-fira-code
 brew install --cask gas-mask
 brew install --cask google-backup-and-sync
@@ -103,6 +104,7 @@ brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize 
 brew install --cask react-native-debugger
 brew install --cask reactotron
 brew install --cask robo-3t
+brew install --cask shottr
 brew install --cask soundflower
 brew install --cask sourcetree
 brew install --cask stretchly
