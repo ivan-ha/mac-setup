@@ -42,7 +42,6 @@ Run all
 - [Charles](https://www.charlesproxy.com/)
 - [Clipy](https://clipy-app.com/)
 - [Docker](https://www.docker.com/)
-- [Dropbox](https://dropbox.com)
 - [Duet](https://www.duetdisplay.com/)
 - [Ferdi](https://getferdi.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)

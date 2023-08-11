@@ -74,7 +74,6 @@ brew install --cask calibre
 brew install --cask charles
 brew install --cask clipy
 brew install --cask docker
-brew install --cask dropbox
 brew install --cask duet
 brew install --cask ferdi
 brew install --cask firefox
