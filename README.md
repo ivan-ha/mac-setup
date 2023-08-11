@@ -59,7 +59,6 @@ Run all
 - [iTerm2](https://www.iterm2.com/)
 - [Kap](https://getkap.co/)
 - [Magnet](http://magnet.crowdcafe.com/)
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [ngrok](https://ngrok.com/)
 - [NoSQLBooster](https://nosqlbooster.com/)
