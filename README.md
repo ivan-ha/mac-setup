@@ -76,7 +76,6 @@ Run all
 - [Telegram](https://telegram.org/)
 - [The Unarchiver](https://theunarchiver.com/)
 - [VLC](https://www.videolan.org/vlc/)
-- [VMware Fusion](https://www.vmware.com/products/fusion.html)
 - [VS Code](https://code.visualstudio.com/)
 - [Xcode](https://itunes.apple.com/app/xcode/id497799835)
 - [Zeplin](https://zeplin.io/)

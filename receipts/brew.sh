@@ -108,7 +108,6 @@ brew install --cask telegram
 brew install --cask the-unarchiver
 brew install --cask visual-studio-code
 brew install --cask vlc
-brew install --cask vmware-fusion
 brew install --cask zeplin
 echo "✓ Homebrew cask install done"
 
