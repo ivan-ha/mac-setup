@@ -72,7 +72,6 @@ Run all
 - [Robo 3T](https://robomongo.org/)
 - [Shottr](https://shottr.cc/)
 - [Sourcetree](https://www.sourcetreeapp.com/)
-- [stretchly](https://github.com/hovancik/stretchly)
 - [Telegram](https://telegram.org/)
 - [The Unarchiver](https://theunarchiver.com/)
 - [VLC](https://www.videolan.org/vlc/)

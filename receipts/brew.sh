@@ -103,7 +103,6 @@ brew install --cask reactotron
 brew install --cask robo-3t
 brew install --cask shottr
 brew install --cask sourcetree
-brew install --cask stretchly
 brew install --cask telegram
 brew install --cask the-unarchiver
 brew install --cask visual-studio-code
