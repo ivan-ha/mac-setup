@@ -102,7 +102,6 @@ brew install --cask react-native-debugger
 brew install --cask reactotron
 brew install --cask robo-3t
 brew install --cask shottr
-brew install --cask soundflower
 brew install --cask sourcetree
 brew install --cask stretchly
 brew install --cask telegram

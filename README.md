@@ -71,7 +71,6 @@ Run all
 - [Reeder](http://reederapp.com/mac/)
 - [Robo 3T](https://robomongo.org/)
 - [Shottr](https://shottr.cc/)
-- [soundflower](https://github.com/mattingalls/Soundflower)
 - [Sourcetree](https://www.sourcetreeapp.com/)
 - [stretchly](https://github.com/hovancik/stretchly)
 - [Telegram](https://telegram.org/)
