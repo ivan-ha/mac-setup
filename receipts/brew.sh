@@ -72,7 +72,6 @@ brew install --cask alfred
 brew install --cask authy
 brew install --cask calibre
 brew install --cask charles
-brew install --cask cheatsheet
 brew install --cask clipy
 brew install --cask docker
 brew install --cask dozer

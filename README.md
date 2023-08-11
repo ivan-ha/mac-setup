@@ -40,7 +40,6 @@ Run all
 - [Authy](https://authy.com/)
 - [Calibre](https://calibre-ebook.com/)
 - [Charles](https://www.charlesproxy.com/)
-- [CheatSheet](https://mediaatelier.com/CheatSheet/)
 - [Clipy](https://clipy-app.com/)
 - [Docker](https://www.docker.com/)
 - [Dozer](https://github.com/Mortennn/Dozer)
