@@ -14,7 +14,6 @@ echo ""
 ###############
 # install app #
 ###############
-mas install 1176895641 # Spark
 mas install 441258766 # Magnet
 mas install 497799835 # Xcode
 mas install 880001334 # Reeder
