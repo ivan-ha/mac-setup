@@ -74,7 +74,6 @@ brew install --cask calibre
 brew install --cask charles
 brew install --cask clipy
 brew install --cask docker
-brew install --cask dozer
 brew install --cask dropbox
 brew install --cask duet
 brew install --cask ferdi
@@ -84,6 +83,7 @@ brew install --cask font-fira-code
 brew install --cask gas-mask
 brew install --cask google-backup-and-sync
 brew install --cask google-chrome
+brew install --cask hiddenbar
 brew install --cask iina
 brew install --cask insomnia
 brew install --cask intellij-idea
