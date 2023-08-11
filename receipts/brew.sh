@@ -106,7 +106,6 @@ brew install --cask sourcetree
 brew install --cask stretchly
 brew install --cask telegram
 brew install --cask the-unarchiver
-brew install --cask tunnelblick
 brew install --cask visual-studio-code
 brew install --cask vlc
 brew install --cask vmware-fusion

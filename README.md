@@ -75,7 +75,6 @@ Run all
 - [stretchly](https://github.com/hovancik/stretchly)
 - [Telegram](https://telegram.org/)
 - [The Unarchiver](https://theunarchiver.com/)
-- [Tunnelblick](https://tunnelblick.net/)
 - [VLC](https://www.videolan.org/vlc/)
 - [VMware Fusion](https://www.vmware.com/products/fusion.html)
 - [VS Code](https://code.visualstudio.com/)
