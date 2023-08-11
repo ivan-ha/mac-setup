@@ -70,7 +70,6 @@ brew install --cask 1password
 brew install --cask adapter
 brew install --cask alfred
 brew install --cask authy
-brew install --cask bitwarden
 brew install --cask calibre
 brew install --cask charles
 brew install --cask cheatsheet
